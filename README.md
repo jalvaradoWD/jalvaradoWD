@@ -3,7 +3,7 @@
 Hi, I'm Jose Alvarado. I'm a Full-Stack Web Developer with passion for open-source projects and web technologies.
 
 * Not only I'm interested in web technologies, I want to work on 3D animation software like Blender.
-* Manjaro (Linux) is my go to operating system. 🐧
+* Ubuntu (Linux) is my go to operating system. 🐧
 * Since I'm using Linux, I would also expand my knowledge on learning Dev Ops in the near future. 🖥
 
 ---------
